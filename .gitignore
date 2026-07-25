@@ -1,0 +1,44 @@
+## Visual Studio / .NET
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bin/
+obj/
+out/
+
+## .NET test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.trx
+
+## NuGet
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+*.nuget.props
+*.nuget.targets
+
+## Rider / ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+## Dotnet tool / local settings
+.dotnet/
+
+## Logs
+*.log
+
+## OS generated files
+.DS_Store
+Thumbs.db
